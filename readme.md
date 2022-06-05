@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. 
+My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, combining philosophy and empirical social research. 
 
 <!--
 **alephmembeth/alephmembeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
