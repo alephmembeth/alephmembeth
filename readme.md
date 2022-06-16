@@ -4,16 +4,12 @@ My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s 
 
 - 🔭 I’m currently working on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation).
 - 🌱 I’m currently learning Python and R.
+- 💬 Ask me about (Experimental) Philosophy, Need-Based Distributive Justice, or Causation.
+- 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>
+- 😄 Pronouns: he/him
 
 <!--
-**alephmembeth/alephmembeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
