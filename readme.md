@@ -4,7 +4,7 @@ My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s 
 
 - 🔭 I’m currently working on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation).
 - 🌱 I’m currently learning Python and R.
-- 💬 Ask me about (Experimental) Philosophy, Need-Based Distributive Justice, or Causation.
+- 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
 - 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>
 - 😄 Pronouns: he/him
 
