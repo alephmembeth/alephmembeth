@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research.
+My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research. If you want to know more about me, why not take a look at my [website](github.com/alephmembeth).
 
 ***
 
