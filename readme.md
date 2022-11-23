@@ -17,7 +17,9 @@ My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s 
 <details>
 <summary>Some stats</summary>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats)
+[![Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alephmembeth&theme=dark&show_icons=true)
 </details>
