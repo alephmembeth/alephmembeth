@@ -4,6 +4,8 @@
 
 My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research. If you want to know more about me, why not take a look at my [website](github.com/alephmembeth).
 
+My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/). Both in the art style of [Disco Elysium](https://discoelysium.com/).
+
 ***
 
 - 🔭 I’m currently working on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation).
