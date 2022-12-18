@@ -1,4 +1,4 @@
-### Hi there! 😃
+### Hi there! 👋
 
 <img src="alephmembeth_1.png" align="right" height="275" />
 
