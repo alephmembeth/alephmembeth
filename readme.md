@@ -16,13 +16,15 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), the port
 ## Repositories for Papers
 
 ### Studies on Causation
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver&theme=dark)](https://github.com/alephmembeth/causality-revolver)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality&theme=dark)](https://github.com/alephmembeth/causality-compositionality)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver&theme=dark)](https://github.com/alephmembeth/causality-revolver)
 
 ### Studies on Distributive Justice
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability&theme=dark)](https://github.com/alephmembeth/need-accountability)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation&theme=dark)](https://github.com/alephmembeth/need-dissertation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds&theme=dark)](https://github.com/alephmembeth/need-kinds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds&theme=dark)](https://github.com/alephmembeth/need-deeds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability&theme=dark)](https://github.com/alephmembeth/need-accountability)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis&theme=dark)](https://github.com/alephmembeth/need-master-thesis)
 
 ***
 
