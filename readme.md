@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<img src="alephmembeth_1.png" align="right" height="275" />
+<img src="alephmembeth_1.png" align="right" height="325" />
 
 My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research, in an area also known as experimental philosophy (or x-phi for short). If you want to know more about me, why not take a look at my [website](https://alephmembeth.github.io/).
 
