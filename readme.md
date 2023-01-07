@@ -8,7 +8,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), the port
 
 ## Repositories for Papers
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](https://alephmembeth.github.io/check.html).
+Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](https://alephmembeth.github.io/check.html). To this end, for projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files.
 
 ### Studies on Causation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality&theme=dark)](https://github.com/alephmembeth/causality-compositionality)
