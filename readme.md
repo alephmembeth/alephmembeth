@@ -8,13 +8,13 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), the port
 
 ## Repositories for Papers
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](https://alephmembeth.github.io/check.html). To this end, for projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (i.e., files containing data and analysis).
+Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](https://alephmembeth.github.io/check.html). To this end, for projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (i.e., files containing data and analysis). Moreover, some theoretical (i.e., non-empirical) working papers will also be listed here.
 
-### Studies on Causation
+### Papers on Causation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality&theme=dark)](https://github.com/alephmembeth/causality-compositionality)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver&theme=dark)](https://github.com/alephmembeth/causality-revolver)
 
-### Studies on Distributive Justice
+### Papers on Distributive Justice
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation&theme=dark)](https://github.com/alephmembeth/need-dissertation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds&theme=dark)](https://github.com/alephmembeth/need-kinds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds&theme=dark)](https://github.com/alephmembeth/need-deeds)
