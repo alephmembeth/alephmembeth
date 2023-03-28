@@ -10,7 +10,6 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) and the p
 - 🌱 I’m currently learning Python, R, and GDScript.
 - 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
 - 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>, [@alephmembeth@ohai.social](https://ohai.social/@alephmembeth/)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun)
 
 ## Repositories for Papers
