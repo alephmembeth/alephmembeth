@@ -14,7 +14,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) and the p
 
 ## Repositories for Papers
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, for research projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (i.e., files for data and analysis). Moreover, some theoretical (i.e., non-empirical) working papers will also be listed here.
+Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, for research projects where I am the first or corresponding author, I try to maintain repositories containing all the essential files (i.e., files for data and analysis).
 
 ### Papers on Causation
 
