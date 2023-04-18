@@ -32,6 +32,8 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 
 ### Papers on Speech Acts
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
+
 ## Some Stats
 
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats/)
