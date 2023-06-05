@@ -32,11 +32,11 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 
 ### Papers on Speech Acts
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=students-guide&theme=dark)](https://github.com/alephmembeth/students-guide/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
 
 ## Teaching Materials
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=students-guide&theme=dark)](https://github.com/alephmembeth/students-guide/)
 
 ## Some Stats
 
