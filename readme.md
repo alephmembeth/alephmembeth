@@ -12,8 +12,6 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) and the p
 - 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun)
 
-<!-- ## Teaching Materials -->
-
 ## Repositories for Papers
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, for research projects where I am the first or corresponding author, I try to maintain repositories containing essential files (i.e., mostly files for data and analysis).
@@ -33,6 +31,10 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis&theme=dark)](https://github.com/alephmembeth/need-master-thesis/)
 
 ### Papers on Speech Acts
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=students-guide&theme=dark)](https://github.com/alephmembeth/students-guide/)
+
+## Teaching Materials
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
 
