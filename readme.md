@@ -6,7 +6,7 @@ My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s 
 
 My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/); both in the art style of [Disco Elysium](https://discoelysium.com/).
 
-- 🔭 I’m currently working – amongst too many other things – on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation/) and creating an oldschool [textadventure](https://github.com/alephmembeth/textadventure-from-scratch/).
+- 🔭 I’m currently working – amongst too many other things – on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation/).
 - 🌱 I’m currently learning Python, R, and GDScript.
 - 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
 - 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>
