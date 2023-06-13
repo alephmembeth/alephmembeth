@@ -4,7 +4,7 @@
 
 My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research in an area also known as “experimental philosophy” (or “x-phi” for short). If you want to know more about me or my research, why not take a look at my [website](https://alephmembeth.github.io/)?
 
-My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) and the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/); both in the art style of [Disco Elysium](https://discoelysium.com/).
+My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/); both in the art style of [Disco Elysium](https://discoelysium.com/).
 
 - 🔭 I’m currently working – amongst too many other things – on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation/) and creating an oldschool [textadventure](https://github.com/alephmembeth/textadventure-from-scratch/).
 - 🌱 I’m currently learning Python, R, and GDScript.
