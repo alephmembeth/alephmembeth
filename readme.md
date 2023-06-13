@@ -6,15 +6,15 @@ My name’s Max. I’m a doctoral researcher at the University of Oldenburg’s 
 
 My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/); both in the art style of [Disco Elysium](https://discoelysium.com/).
 
-- 🔭 I’m currently working – amongst too many other things – on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation/).
+- 🔭 I’m currently working—amongst too many other things—on finishing my [dissertation](https://github.com/alephmembeth/need-dissertation/).
 - 🌱 I’m currently learning Python, R, and GDScript.
 - 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
-- 📫 How to reach me: <alexander.max.bauer@uni-oldenburg.de>
-- ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun)
+- 📫 You can reach me via <alexander.max.bauer@uni-oldenburg.de>.
+- ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
 
 ## Repositories for Papers
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, for research projects where I am the first or corresponding author, I try to maintain repositories containing essential files (i.e., mostly data files and files for analysis).
+Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, I try to maintain repositories containing essential files (i.e., primarily data and analysis files) for research projects where I am the first or corresponding author.
 
 ### Papers on Causation
 
@@ -44,4 +44,4 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
 
-[^1]: Hogan, Robert (2007): _Personality and the fate of organizations_. Mahwah: Lawrence Erlbaum. p. 28.
+[^1]: Robert Hogan, _Personality and the fate of organizations_ (Mahwah: Lawrence Erlbaum, 2007), 28.
