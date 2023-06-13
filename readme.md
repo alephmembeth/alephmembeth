@@ -44,4 +44,4 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
 
-[^1]: Robert Hogan, _Personality and the fate of organizations_ (Mahwah: Lawrence Erlbaum, 2007), 28.
+[^1]: Robert Hogan, _Personality and the Fate of Organizations_ (Mahwah: Lawrence Erlbaum, 2007), 28.
