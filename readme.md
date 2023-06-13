@@ -12,7 +12,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 - 📫 You can reach me via <alexander.max.bauer@uni-oldenburg.de>.
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
 
-## Repositories for Papers
+## Repositories for Papers 📑
 
 Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, I try to maintain repositories containing essential files (i.e., primarily data and analysis files) for research projects where I am the first or corresponding author.
 
@@ -34,11 +34,11 @@ Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite y
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
 
-## Teaching Materials
+## Teaching Materials 🛟
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=students-guide&theme=dark)](https://github.com/alephmembeth/students-guide/)
 
-## Some Stats
+## Some Stats 📊
 
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats/)
 
