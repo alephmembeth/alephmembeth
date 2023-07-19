@@ -12,32 +12,6 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 - 📫 You can reach me via <alexander.max.bauer@uni-oldenburg.de>.
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
 
-## Repositories for Papers 📑
-
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my research](https://alephmembeth.github.io/check.html). To this end, I try to maintain repositories containing essential files (i.e., primarily data and analysis files) for research projects where I am the first or corresponding author.
-
-### Papers on Causation 🎱
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-compositionality&theme=dark)](https://github.com/alephmembeth/causality-compositionality/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=causality-revolver&theme=dark)](https://github.com/alephmembeth/causality-revolver/)
-
-### Papers on Distributive Justice ⚖️
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-dissertation&theme=dark)](https://github.com/alephmembeth/need-dissertation/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-reference-point&theme=dark)](https://github.com/alephmembeth/need-reference-point/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-kinds&theme=dark)](https://github.com/alephmembeth/need-kinds/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-deeds&theme=dark)](https://github.com/alephmembeth/need-deeds/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-accountability&theme=dark)](https://github.com/alephmembeth/need-accountability/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=need-master-thesis&theme=dark)](https://github.com/alephmembeth/need-master-thesis/)
-
-### Papers on Speech Acts 💬
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=speech-constative-performative&theme=dark)](https://github.com/alephmembeth/speech-constative-performative/)
-
-## Teaching Materials 🛟
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alephmembeth&repo=students-guide&theme=dark)](https://github.com/alephmembeth/students-guide/)
-
 ## Some Stats 📊
 
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats/)
