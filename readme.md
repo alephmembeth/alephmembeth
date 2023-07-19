@@ -12,7 +12,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 - 📫 You can reach me via <alexander.max.bauer@uni-oldenburg.de>.
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
 
-## Some Stats 📊
+## Some Stats
 
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=alephmembeth&theme=dark)](https://git.io/streak-stats/)
 
