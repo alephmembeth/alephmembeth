@@ -15,6 +15,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 ## Some Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alephmembeth&theme=dark&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
 
 [^1]: Robert Hogan, _Personality and the Fate of Organizations_ (Mahwah: Lawrence Erlbaum, 2007), 28.
