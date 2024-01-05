@@ -11,7 +11,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 - 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
 - 📫 You can reach me via <alexander.max.bauer@uol.de>.
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
-- 🕹️ Currently playing: Cyberpunk 2077, Red Dead Redemption, Stardew Valley
+- 🕹️ Currently playing: Cyberpunk 2077, Kingdom Come: Deliverance, Red Dead Redemption, Stardew Valley
 
 ## Some Stats
 
