@@ -7,7 +7,7 @@ My name’s Max. I’m a research associate at the University of Oldenburg’s D
 My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the portrait in this `readme.md` by [Aseagull](https://sites.google.com/view/aseagull/); both in the art style of [Disco Elysium](https://discoelysium.com/).
 
 - 🔭 I’m currently working—amongst too many other things—on preparing the defense of my [dissertation](https://github.com/alephmembeth/need-dissertation/).
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning GDScript.
 - 💬 Ask me about [(Experimental) Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/), [Need-Based Distributive Justice](https://plato.stanford.edu/entries/needs/), or [Causation](https://plato.stanford.edu/entries/causation-metaphysics/).
 - 📫 You can reach me via <alexander.max.bauer@uol.de>.
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
