@@ -13,6 +13,21 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
 - ⚡ Fun fact: Last time I checked, my Myers-Briggs type was *INFJ-T* (not to be taken too seriously; as Robert Hogan once put it: “Most personality psychologists regard the MBTI as little more than an elaborate Chinese fortune cookie”,[^1] but then again, fortune cookies can be fun).
 - 🕹️ Currently playing: Baldur’s Gate III, Cyberpunk 2077, Kingdom Come: Deliverance, Red Dead Redemption, Stardew Valley
 
+
+## Areas and Tools
+
+<dl>
+   <dt>Areas of Specialization:</dt>
+      <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
+   <dt>Areas of Competence:</dt>
+      <dd>Digital Humanities, Distributive Justice, Philosophy of Science</dd>
+   <dt>Areas of Interest:</dt>
+      <dd>Metaphilosophy, Philosophy of Language</dd>
+   <dt>Tools of Choice:</dt>
+      <dd>LaTeX, LimeSurvey, oTree, Stata, R, Python</dd>
+</dl>
+
+
 ## Some Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alephmembeth&theme=dark&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
