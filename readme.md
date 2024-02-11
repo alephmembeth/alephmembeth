@@ -22,7 +22,7 @@ My avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/), and the 
    <dt>Areas of Competence:</dt>
       <dd>Digital Humanities, Distributive Justice, Philosophy of Science</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Metaphilosophy, Philosophy of Language, Digital Humanities</dd>
+      <dd>Metaphilosophy, Philosophy of Language</dd>
    <dt>Tools of Choice:</dt>
       <dd>LaTeX, LimeSurvey, oTree, Stata, R, Python</dd>
 </dl>
