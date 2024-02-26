@@ -11,7 +11,7 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
    <dt>Areas of Specialization:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Digital Humanities, Distributive Justice, Philosophy of Science</dd>
+      <dd>Digital Humanities, Distributive Justice, Philosophy of Science, Metaphysics</dd>
    <dt>Areas of Interest:</dt>
       <dd>Metaphilosophy, Philosophy of Language</dd>
    <dt>Tools of Choice:</dt>
