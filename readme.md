@@ -17,7 +17,7 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
    <dt>Areas of Interest:</dt>
       <dd>Game Studies, Metaphilosophy, Philosophy of Language</dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
+      <dd>LaTeX, LimeSurvey, Stata, R, Python, Godot</dd>
 </dl>
 
 
