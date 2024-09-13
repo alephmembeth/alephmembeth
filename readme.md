@@ -23,6 +23,4 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
 
 ## Some Stats 🔍
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alephmembeth&theme=dark&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
