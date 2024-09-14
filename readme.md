@@ -1,10 +1,12 @@
 ## Hi There! 👋
 
+<img src="alephmembeth_octo.png" align="right" height="200"/>
+
 My name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or “x-phi” for short). If you want to know more about me or my research, why not take a look at my [website](https://alephmembeth.github.io/)?
 
 Want to know what’s happening in the world of x-phi right now? Visit [The Experimental Philosophy Blog](https://xphi.net/) that I maintain.
 
-By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) in the art style of [Disco Elysium](https://discoelysium.com/).
+By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) in the art style of [Disco Elysium](https://discoelysium.com/). Octome is made with [myOctocat](https://myoctocat.com/).
 
 
 ## Areas and Tools ✏️
