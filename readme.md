@@ -21,6 +21,13 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
 </dl>
 
 
+## Current Projects 💻
+
++ a [basic 2D RPG framework](https://github.com/alephmembeth/2d-rpg-framework) in Godot
++ a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown
++ a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
+
+
 ## Some Stats 🔍
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
