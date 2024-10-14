@@ -24,6 +24,7 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
 ## Current Projects 💻
 
 + a [basic 2D RPG framework](https://github.com/alephmembeth/2d-rpg-framework) in Godot
++ a [book on the video game Gothic](https://github.com/alephmembeth/book-gothic) in LaTeX
 + a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
 
