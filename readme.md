@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-My name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy”. If you want to learn more about me or my research, why not look at my [website](https://alephmembeth.github.io/)?
+My name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy.” If you want to learn more about me or my research, why not look at my [website](https://alephmembeth.github.io/)?
 
 Want to know what’s happening in the world of x-phi right now? Visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain.
 
