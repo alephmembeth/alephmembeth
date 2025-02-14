@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
-My name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy.” If you want to learn more about me or my research, why not look at my [website](https://alephmembeth.github.io/)?
+My name’s Max. I’m a postdoctoral research associate at the University of Oldenburg’s Department of Philosophy, mainly working at the intersection of philosophy and empirical social research in an area known as “experimental philosophy” (or x-phi for short). If you want to learn more about me or my research, why not visit my [website](https://alephmembeth.github.io/)?
 
 Want to know what’s happening in the world of x-phi right now? Visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain.
 
@@ -13,13 +13,13 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
    <dt>Areas of Specialization:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Digital Humanities, Distributive Justice, Philosophy of Science, Metaphysics</dd>
+      <dd>Game Studies, Distributive Justice, Philosophy of Science, Metaphysics</dd>
    <dt>Areas of Interest:</dt>
-      <dd>Game Studies, Metaphilosophy, Philosophy of Language</dd>
+      <dd>Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
    <dt>Historical Focus:</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, Stata, R, Python, Godot</dd>
+      <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
 </dl>
 
 
