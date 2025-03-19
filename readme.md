@@ -7,7 +7,7 @@ Want to know what’s happening in the world of x-phi right now? Visit [The Expe
 By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
 
-## Subjects and Tools ✏️
+## Areas and Tools ✏️
 
 <dl>
    <dt>Areas of Specialization:</dt>
