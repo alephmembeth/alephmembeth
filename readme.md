@@ -18,7 +18,7 @@ By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co
    <dt>Historical Focus:</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, Stata, R, Python</dd>
+      <dd>LaTeX, LimeSurvey, Stata, R, Python, Git</dd>
 </dl>
 
 ## Current Projects 💻
