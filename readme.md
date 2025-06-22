@@ -4,7 +4,7 @@ My name’s Max. I’m a postdoctoral research associate at the University of Ol
 
 Want to know what’s happening in the world of x-phi right now? Visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain.
 
-By the way, my avatar has been drawn by [Spiceestew](https://spiceestew.carrd.co/) in the art style of [Disco Elysium](https://discoelysium.com/).
+By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa) in the art style of [Disco Elysium](https://discoelysium.com/).
 
 ## Areas and Tools ✏️
 
