@@ -21,7 +21,7 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
       <dd>LaTeX, LimeSurvey, Stata, R, Python, Git</dd>
 </dl>
 
-## Current Projects 💻
+## Some Ongoing Projects 💻
 
 + a [book on the video game Gothic](https://github.com/alephmembeth/gothic) in LaTeX
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
