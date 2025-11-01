@@ -26,7 +26,6 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
 + a [book on the video game Gothic](https://github.com/alephmembeth/gothic) in LaTeX
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
 + a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown
-+ a [textadventure](https://github.com/alephmembeth/yet-another-textadventure-from-scratch) in Godot (jointly with [Jan Romann](https://github.com/JKRhb))
 
 ## Some Stats 🔍
 
