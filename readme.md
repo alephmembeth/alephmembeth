@@ -26,7 +26,3 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
 + a [book on the video game Gothic](https://github.com/alephmembeth/gothic) in LaTeX
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
 + a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown
-
-## Some Stats 🔍
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alephmembeth&langs_count=10&layout=compact&theme=dark)](https://github.com/alephmembeth/github-readme-stats/)
