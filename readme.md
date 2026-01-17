@@ -27,6 +27,10 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX
 + a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown
 
-## Some Stats
+## Some Stats 📊
+
 ![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/languages.svg#gh-light-mode-only)
