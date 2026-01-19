@@ -10,7 +10,7 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
 
 <dl>
    <dt>Areas of Specialization:</dt>
-      <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
+      <dd>Experimental Philosophy, Empirical Justice Research, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
       <dd>Game Studies, Distributive Justice, Philosophy of Science, Metaphysics</dd>
    <dt>Areas of Interest:</dt>
