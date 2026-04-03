@@ -18,7 +18,7 @@ By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa)
    <dt>Historical Focus</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice</dt>
-      <dd>LaTeX, LimeSurvey, Python, Git</dd>
+      <dd>LaTeX, Zotero, LimeSurvey, Python, R, Git</dd>
 </dl>
 
 ## Some Ongoing Projects 💻
