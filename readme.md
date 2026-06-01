@@ -4,7 +4,7 @@ My name’s Max. I’m a postdoctoral research assistant (»Wissenschaftlicher M
 
 Want to know what’s happening in the world of x-phi right now? Visit [The Experimental Philosophy Blog](https://xphi.net/), which I maintain, or [The Oldenburg Experimental Philosophy Laboratory](https://uol.de/en/philosophy/research/research-areas/experimental-philosophy), which I founded together with Stephan Kornmesser and Mark Siebel.
 
-By the way, my avatar has been drawn by [Liri Runa](https://linktr.ee/liri_runa) in the art style of [Disco Elysium](https://discoelysium.com/).
+By the way, my avatar has been drawn by [parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
 ## Areas and Tools ✏️
 
