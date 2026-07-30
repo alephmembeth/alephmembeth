@@ -28,11 +28,3 @@ Currently, alongside far too many other things, I’m working on
 + a [book on the video game Gothic](https://github.com/alephmembeth/gothic) in LaTeX,
 + a [transcription of Beinecke MS 408](https://github.com/alephmembeth/voynich) in XeLaTeX, and
 + a [student’s guide to scientific writing](https://github.com/alephmembeth/students-guide) in R Markdown.
-
-## Some Stats 📊
-
-![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/alephmembeth/github-stats/master/generated/languages.svg#gh-light-mode-only)
