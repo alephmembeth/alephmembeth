@@ -6,17 +6,17 @@ Want to know what’s happening in the world of x-phi right now? Visit [The Expe
 
 By the way, my avatar has been drawn by [Parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
-## Areas and Tools ✏️
+## Areas and Tools (In Alphabetical Order) ✏️
 
 <dl>
    <dt>Areas of Specialization</dt>
-      <dd>Experimental Philosophy, Empirical Justice Research, Need-Based Distributive Justice, Causation</dd>
+      <dd>Causation, Empirical Justice Research, Experimental Philosophy, Need-Based Distributive Justice</dd>
    <dt>Areas of Competence</dt>
-      <dd>Game Studies, Distributive Justice, Philosophy of Science, Metaphysics</dd>
+      <dd>Distributive Justice, Game Studies, Metaphysics, Philosophy of Science</dd>
    <dt>Areas of Interest</dt>
       <dd>Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
    <dt>Historical Focus</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice</dt>
-      <dd>LaTeX, Zotero, LimeSurvey, Python, R, Git</dd>
+      <dd> Git, LaTeX, LimeSurvey, Python, R, Zotero</dd>
 </dl>
