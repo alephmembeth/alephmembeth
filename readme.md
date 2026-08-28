@@ -18,5 +18,5 @@ By the way, my avatar has been drawn by [Parallaks](https://ko-fi.com/parallaks/
    <dt>Historical Focus</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice</dt>
-      <dd> Git, LaTeX, LimeSurvey, Python, R, Zotero</dd>
+      <dd> Git, LaTeX, LimeSurvey, Python, Zotero</dd>
 </dl>
