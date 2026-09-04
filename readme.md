@@ -14,7 +14,7 @@ By the way, my avatar has been drawn by [Parallaks](https://ko-fi.com/parallaks/
    <dt>Areas of Competence</dt>
       <dd>Distributive Justice, Game Studies, Metaphysics, Philosophy of Science</dd>
    <dt>Areas of Interest</dt>
-      <dd>Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
+      <dd>Conspiracy Narratives, Digital Humanities, Metaphilosophy, Philosophy of Language</dd>
    <dt>Historical Focus</dt>
       <dd>Aristotle, Friedrich Nietzsche</dd>
    <dt>Tools of Choice</dt>
