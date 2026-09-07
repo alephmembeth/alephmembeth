@@ -6,7 +6,7 @@ Want to know what’s happening in the world of x-phi right now? Visit [The Expe
 
 By the way, my avatar has been drawn by [Parallaks](https://ko-fi.com/parallaks/) in the art style of [Disco Elysium](https://discoelysium.com/).
 
-## Areas and Tools (In Alphabetical Order)
+## Areas and Tools (Alphabetical Order)
 
 <dl>
    <dt>Areas of Specialization</dt>
